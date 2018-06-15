@@ -1,6 +1,6 @@
 # Random Access Machine
 Implementation of a Random Access Machine in Java programming language.
-[Link to Documentation](https://ull-esit-inf-daa-1718.github.io/ull-esit-inf-daa-1718-pract1-angeligareta/)
+[Link to Documentation](https://angeligareta.github.io/RandomAccessMachine/)
 
 ## Index
 * [Description](#description)
